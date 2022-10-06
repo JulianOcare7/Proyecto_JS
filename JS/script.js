@@ -2,6 +2,7 @@
 var nombre = "julian";
 let apellido = 'ocare';
 const pais = `Argentina`;
+console.log(nombre,apellido,pais);
 //#endregion
 
 //#region 
