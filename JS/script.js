@@ -1,8 +1,14 @@
 //#region 
 var nombre = "julian";
 let apellido = 'ocare';
-const pais = `Argentina`
+const pais = `Argentina`;
 //#endregion
+
+//#region 
+var num1 = 3;
+var num2 = 2;
+//#endregion
+
 
 //#region
 function suma(num1, num2) {
