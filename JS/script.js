@@ -27,3 +27,11 @@ function division(num1, num2) {
 }
 consologe.log(division(num1, num2));
 //#endregion
+
+//#region
+function multiplicacion(num1, num2) {
+    let s = num1 * num2;
+    return s;
+}
+consologe.log(multiplicacion(num1, num2));
+//#endregion
