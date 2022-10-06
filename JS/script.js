@@ -43,6 +43,7 @@ function multiplicacion(num1, num2) {
 console.log(multiplicacion(num1, num2));
 //#endregion
 
+//#region 
 const posts = [{
     id : 1, 
     title: 'Instagram',
@@ -56,3 +57,5 @@ const posts = [{
 
 posts.find(post => post.title == 'Instagram');
 
+console.log(post.title);
+//#endregion
