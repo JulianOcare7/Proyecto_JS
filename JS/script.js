@@ -35,3 +35,17 @@ function multiplicacion(num1, num2) {
 }
 console.log(multiplicacion(num1, num2));
 //#endregion
+
+const posts = [{
+    id : 1, 
+    title: 'Instagram',
+} , {
+    id: 2,
+    title: 'Facebook',
+} , {
+    id: 3,
+    title: 'Whatsapp'
+}]
+
+posts.find(post => post.title == 'Instagram');
+
