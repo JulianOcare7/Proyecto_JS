@@ -46,6 +46,6 @@ console.log(multiplicacion(num1, num2));
 //#region-array
 let lista=[10,20,30,40];
 for(i=0;i<lista.length;i++){
+    console.log(lista[i]);
 }
-console.log(lista[i]);
 //#endregion
