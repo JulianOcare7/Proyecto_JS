@@ -43,28 +43,9 @@ function multiplicacion(num1, num2) {
 console.log(multiplicacion(num1, num2));
 //#endregion
 
-//#region 
-const posts = [{
-    id : 1, 
-    title: 'Instagram',
-} , {
-    id: 2,
-    title: 'Facebook',
-} , {
-    id: 3,
-    title: 'Whatsapp'
-}]
-
-posts.find(post => post.title == 'Instagram');
-
-console.log(post.title);
-//#endregion
-
-//#region 
-function suma (num1, values){
-    console.log(values);
-    console.log(num1+values[0]);
-    return num1 + values [0];
+//#region-array
+let lista=[10,20,30,40];
+for(i=0;i<lista.length;i++){
 }
-
-sum(1,1,2,3);
+console.log(lista[i]);
+//#endregion
