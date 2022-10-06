@@ -5,7 +5,7 @@ const pais = `Argentina`;
 //#endregion
 
 //#region 
-var num1 = 3;
+var num1 = 4;
 var num2 = 2;
 //#endregion
 
