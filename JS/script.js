@@ -59,3 +59,12 @@ posts.find(post => post.title == 'Instagram');
 
 console.log(post.title);
 //#endregion
+
+//#region 
+function suma (num1, values){
+    console.log(values);
+    console.log(num1+values[0]);
+    return num1 + values [0];
+}
+
+sum(1,1,2,3);
