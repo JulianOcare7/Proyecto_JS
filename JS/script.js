@@ -19,3 +19,11 @@ function resta(num1, num2) {
 }
 consologe.log(resta(num1, num2));
 //#endregion
+
+//#region
+function division(num1, num2) {
+    let s = num1 / num2;
+    return s;
+}
+consologe.log(division(num1, num2));
+//#endregion
